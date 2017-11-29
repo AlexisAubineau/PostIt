@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:20:1-40:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5944f2fb4a83a99877565ce3737348bc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/12ae275c5e4f2c1113d56103c92de621/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1a064aa69347fe23b58eafe8b3af948a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eeced12c687a0f9cadcd8007ad3a241d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/78efb3be5d30487979ba214bd9a172af/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/34445e7681f1c8e3658d5de9e15727ff/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1ce0aa23799d7c9815fa76adde9aa934/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e11eb3a5c68995c065789d9c8142ec1b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/09a38151d3565bba7697212216eb2ae8/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/01190e30fe1b869ff94b509c404cc4fa/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
+	package
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
+		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
+		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:4:5-20:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:32:5-38:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:32:5-38:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5944f2fb4a83a99877565ce3737348bc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5944f2fb4a83a99877565ce3737348bc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/12ae275c5e4f2c1113d56103c92de621/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/12ae275c5e4f2c1113d56103c92de621/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1a064aa69347fe23b58eafe8b3af948a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1a064aa69347fe23b58eafe8b3af948a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eeced12c687a0f9cadcd8007ad3a241d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eeced12c687a0f9cadcd8007ad3a241d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/78efb3be5d30487979ba214bd9a172af/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/78efb3be5d30487979ba214bd9a172af/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/34445e7681f1c8e3658d5de9e15727ff/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/34445e7681f1c8e3658d5de9e15727ff/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1ce0aa23799d7c9815fa76adde9aa934/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1ce0aa23799d7c9815fa76adde9aa934/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e11eb3a5c68995c065789d9c8142ec1b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e11eb3a5c68995c065789d9c8142ec1b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/09a38151d3565bba7697212216eb2ae8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/09a38151d3565bba7697212216eb2ae8/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/01190e30fe1b869ff94b509c404cc4fa/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/01190e30fe1b869ff94b509c404cc4fa/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:10:9-40
+activity#skewrad.postit.MainActivity
+ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:11:9-16:20
+	android:name
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:11:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:14:27-74
+activity#skewrad.postit.Inscription
+ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:17:9-19:20
+	android:name
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:17:19-46
+uses-sdk
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5944f2fb4a83a99877565ce3737348bc/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5944f2fb4a83a99877565ce3737348bc/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/12ae275c5e4f2c1113d56103c92de621/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/12ae275c5e4f2c1113d56103c92de621/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1a064aa69347fe23b58eafe8b3af948a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1a064aa69347fe23b58eafe8b3af948a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eeced12c687a0f9cadcd8007ad3a241d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eeced12c687a0f9cadcd8007ad3a241d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/78efb3be5d30487979ba214bd9a172af/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/78efb3be5d30487979ba214bd9a172af/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/34445e7681f1c8e3658d5de9e15727ff/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/34445e7681f1c8e3658d5de9e15727ff/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1ce0aa23799d7c9815fa76adde9aa934/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1ce0aa23799d7c9815fa76adde9aa934/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e11eb3a5c68995c065789d9c8142ec1b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e11eb3a5c68995c065789d9c8142ec1b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/09a38151d3565bba7697212216eb2ae8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/09a38151d3565bba7697212216eb2ae8/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/01190e30fe1b869ff94b509c404cc4fa/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/01190e30fe1b869ff94b509c404cc4fa/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5944f2fb4a83a99877565ce3737348bc/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:29:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:30:22-73
+provider#com.amitshekhar.DebugDBInitProvider
+ADDED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:33:9-37:40
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:36:13-35
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:35:13-71
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:34:13-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5944f2fb4a83a99877565ce3737348bc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/12ae275c5e4f2c1113d56103c92de621/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/12ae275c5e4f2c1113d56103c92de621/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1a064aa69347fe23b58eafe8b3af948a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1a064aa69347fe23b58eafe8b3af948a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eeced12c687a0f9cadcd8007ad3a241d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/eeced12c687a0f9cadcd8007ad3a241d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/78efb3be5d30487979ba214bd9a172af/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/78efb3be5d30487979ba214bd9a172af/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/34445e7681f1c8e3658d5de9e15727ff/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/34445e7681f1c8e3658d5de9e15727ff/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1ce0aa23799d7c9815fa76adde9aa934/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1ce0aa23799d7c9815fa76adde9aa934/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e11eb3a5c68995c065789d9c8142ec1b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e11eb3a5c68995c065789d9c8142ec1b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/09a38151d3565bba7697212216eb2ae8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/09a38151d3565bba7697212216eb2ae8/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5944f2fb4a83a99877565ce3737348bc/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5944f2fb4a83a99877565ce3737348bc/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/01190e30fe1b869ff94b509c404cc4fa/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/01190e30fe1b869ff94b509c404cc4fa/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/01190e30fe1b869ff94b509c404cc4fa/AndroidManifest.xml:26:13-58
