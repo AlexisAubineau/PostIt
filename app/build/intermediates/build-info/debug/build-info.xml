@@ -6,23 +6,26 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.0.0"
-    timestamp="1511955475162"
+    timestamp="1511964391926"
     token="2095966301554131561"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1624" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="160" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1" />
 
+    <artifact
+        location="/home/skewrad/AndroidStudioProjects/PostIt/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
     <artifact
         location="/home/skewrad/AndroidStudioProjects/PostIt/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
@@ -51,9 +54,6 @@
         location="/home/skewrad/AndroidStudioProjects/PostIt/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="/home/skewrad/AndroidStudioProjects/PostIt/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
         location="/home/skewrad/AndroidStudioProjects/PostIt/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
     <artifact
@@ -62,8 +62,11 @@
 
     <build
         build-mode="FULL"
-        timestamp="1511955475162"
+        timestamp="1511964391926"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/skewrad/AndroidStudioProjects/PostIt/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
         <artifact
             location="/home/skewrad/AndroidStudioProjects/PostIt/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
@@ -90,9 +93,6 @@
             type="SPLIT" />
         <artifact
             location="/home/skewrad/AndroidStudioProjects/PostIt/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/skewrad/AndroidStudioProjects/PostIt/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
             location="/home/skewrad/AndroidStudioProjects/PostIt/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
