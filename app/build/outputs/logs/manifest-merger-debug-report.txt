@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
-INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
-INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
-INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
+ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-22:12
 MERGED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:20:1-40:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5944f2fb4a83a99877565ce3737348bc/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/12ae275c5e4f2c1113d56103c92de621/AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /home/skewrad/.gradl
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e11eb3a5c68995c065789d9c8142ec1b/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/09a38151d3565bba7697212216eb2ae8/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/01190e30fe1b869ff94b509c404cc4fa/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
-INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
-INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-22:12
 	package
 		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:2:5-29
 		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
 		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
-		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-22:12
 		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
-		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-21:12
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:1-22:12
 		INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:1:11-69
 application
-ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:4:5-20:19
+ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:4:5-21:19
 MERGED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:32:5-38:19
 MERGED from [com.amitshekhar.android:debug-db:1.0.1] /home/skewrad/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.1.aar/703180bea63eec454fdf1fa885fd37ae/AndroidManifest.xml:32:5-38:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/skewrad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5944f2fb4a83a99877565ce3737348bc/AndroidManifest.xml:25:5-29:19
@@ -83,9 +83,13 @@ ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManife
 	android:name
 		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:14:27-74
 activity#skewrad.postit.Inscription
-ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:17:9-19:20
+ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:17:9-18:20
 	android:name
 		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:17:19-46
+activity#skewrad.postit.Home
+ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:19:9-20:20
+	android:name
+		ADDED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml:19:19-39
 uses-sdk
 INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/skewrad/AndroidStudioProjects/PostIt/app/src/main/AndroidManifest.xml
