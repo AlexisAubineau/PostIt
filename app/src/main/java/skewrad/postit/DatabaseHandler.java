@@ -12,18 +12,19 @@ public class DatabaseHandler extends SQLiteOpenHelper {
 
     public static final String USER_TABLE_NAME = "users";
     public static final String COL_ID_USER = "id_user";
-    public static final String COL_USERNAME = "username_user";
-    public static final String COL_FIRSTNAME = "firstname_user";
-    public static final String COL_LASTNAME = "lastname_user";
-    public static final String COL_DATE = "date_user";
-    public static final String COL_PASSWORD = "password_user";
+    public static final String COL_USERNAME = "username";
+    public static final String COL_FIRSTNAME = "firstname";
+    public static final String COL_LASTNAME = "lastname";
+    public static final String COL_MAIL = "mail";
+    public static final String COL_PASSWORD = "password";
 
-    private static final String CREATE_BDD = "CREATE TABLE " + USER_TABLE_NAME + " ("
-            + COL_ID_USER + " INTEGER PRIMARY KEY AUTOINCREMENT, " + COL_USERNAME + " TEXT NOT NULL, "
+    private static final String CREATE_BDD = " CREATE TABLE " + USER_TABLE_NAME + " ( "
+            + COL_ID_USER + " INTEGER PRIMARY KEY AUTOINCREMENT, "
+            + COL_USERNAME + " TEXT NOT NULL, "
             + COL_FIRSTNAME + " TEXT NOT NULL, "
             + COL_LASTNAME + " TEXT NOT NULL, "
-            + COL_DATE + " TEXT NOT NULL,"
-            + COL_PASSWORD + "TEXT NOT NULL);";
+            + COL_MAIL + " TEXT NOT NULL, "
+            + COL_PASSWORD + " TEXT NOT NULL ); ";
 
     public DatabaseHandler(Context context, String name, SQLiteDatabase.CursorFactory factory, int version) {
         super(context, name, factory, version);

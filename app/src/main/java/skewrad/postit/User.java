@@ -9,7 +9,7 @@ public class User {
     private String username;
     private String lastname;
     private String firstname;
-    private String date;
+    private String mail;
     private String password;
 
     public User()
@@ -17,11 +17,11 @@ public class User {
 
     }
 
-    public User(String username, String firstname, String lastname, String date, String password) {
+    public User(String username, String firstname, String lastname, String mail, String password) {
         this.username = username;
         this.firstname = firstname;
         this.lastname = lastname;
-        this.date = date;
+        this.mail = mail;
         this.password = password;
     }
 
@@ -61,12 +61,12 @@ public class User {
         this.lastname = lastname;
     }
 
-    public String getDate() {
-        return date;
+    public String getMail() {
+        return mail;
     }
 
-    public void setDate(String date) {
-        this.date = date;
+    public void setMail(String mail) {
+        this.mail = mail;
     }
 
     public String getPassword() {
@@ -84,7 +84,7 @@ public class User {
                 ", Username='" + username + '\'' +
                 ", Firstname='" + firstname + '\'' +
                 ", Lastname='" + lastname + '\'' +
-                ", Date='" + date + '\'' +
+                ", Mail='" + mail + '\'' +
                 ", Password='" + password + '\'' +
                 '}';
     }

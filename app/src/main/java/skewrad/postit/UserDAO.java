@@ -20,7 +20,7 @@ public class UserDAO extends DAO{
         value.put(DatabaseHandler.COL_USERNAME, user.getUsername());
         value.put(DatabaseHandler.COL_FIRSTNAME, user.getFirstname());
         value.put(DatabaseHandler.COL_LASTNAME, user.getLastname());
-        value.put(DatabaseHandler.COL_DATE, user.getDate());
+        value.put(DatabaseHandler.COL_MAIL, user.getMail());
         value.put(DatabaseHandler.COL_PASSWORD, user.getPassword());
 
         getDB().insert(DatabaseHandler.USER_TABLE_NAME, null, value);
@@ -28,7 +28,7 @@ public class UserDAO extends DAO{
 
     public User getUser() {
 
-        Cursor c = super.getDB().query(DatabaseHandler.USER_TABLE_NAME, new String[]{DatabaseHandler.COL_ID_USER, DatabaseHandler.COL_USERNAME, DatabaseHandler.COL_FIRSTNAME, DatabaseHandler.COL_LASTNAME, DatabaseHandler.COL_DATE, DatabaseHandler.COL_PASSWORD}, null, null, null, null, null);
+        Cursor c = super.getDB().query(DatabaseHandler.USER_TABLE_NAME, new String[]{DatabaseHandler.COL_ID_USER, DatabaseHandler.COL_USERNAME, DatabaseHandler.COL_FIRSTNAME, DatabaseHandler.COL_LASTNAME, DatabaseHandler.COL_MAIL, DatabaseHandler.COL_PASSWORD}, null, null, null, null, null);
         return cursorToUser(c);
     }
 
@@ -40,18 +40,18 @@ public class UserDAO extends DAO{
         User user = new User();
 
         int id_user = c.getInt(c.getColumnIndex(DatabaseHandler.COL_ID_USER));
-        String username_user = c.getString(c.getColumnIndex(DatabaseHandler.COL_USERNAME));
-        String firstname_user = c.getString(c.getColumnIndex(DatabaseHandler.COL_FIRSTNAME));
-        String lastname_user = c.getString(c.getColumnIndex(DatabaseHandler.COL_LASTNAME));
-        String date_user = c.getString(c.getColumnIndex(DatabaseHandler.COL_DATE));
-        String password_user = c.getString(c.getColumnIndex(DatabaseHandler.COL_PASSWORD));
+        String username = c.getString(c.getColumnIndex(DatabaseHandler.COL_USERNAME));
+        String firstname = c.getString(c.getColumnIndex(DatabaseHandler.COL_FIRSTNAME));
+        String lastname = c.getString(c.getColumnIndex(DatabaseHandler.COL_LASTNAME));
+        String mail = c.getString(c.getColumnIndex(DatabaseHandler.COL_MAIL));
+        String password = c.getString(c.getColumnIndex(DatabaseHandler.COL_PASSWORD));
 
         user.setId(id_user);
-        user.setUsername(username_user);
-        user.setFirstname(firstname_user);
-        user.setLastname(lastname_user);
-        user.setDate(date_user);
-        user.setPassword(password_user);
+        user.setUsername(username);
+        user.setFirstname(firstname);
+        user.setLastname(lastname);
+        user.setMail(mail);
+        user.setPassword(password);
 
         c.close();
         return user;
